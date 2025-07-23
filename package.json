@@ -24,7 +24,7 @@
     "boom": "3.x.x",
     "colors-tmpl": "^1.0.0",
     "combined-stream": "^1.0.5",
-    "form-data": "^0.2.0",
+    "form-data": "^2.5.5",
     "h2o2": "5.x.x",
     "handlebars": "^4.0.0",
     "hapi": "13.x.x",
